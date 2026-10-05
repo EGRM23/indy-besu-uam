@@ -30,7 +30,7 @@
     "@dk1a/solidity-stringutils": "^0.3.3",
     "@ethereumjs/common": "^4.0.0",
     "@ethereumjs/tx": "^5.0.0",
-    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.13",
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "@nomicfoundation/hardhat-verify": "^1.0.0",
