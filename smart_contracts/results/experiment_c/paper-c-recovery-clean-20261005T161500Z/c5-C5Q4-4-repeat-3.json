@@ -1,0 +1,149 @@
+{
+  "scenario": "C5Q4-4",
+  "repeat": 3,
+  "timeout_ms": 30000,
+  "reads": [
+    {
+      "index": 1,
+      "success": true,
+      "latency_ms": 26.407643996179104,
+      "block_height": 120252
+    },
+    {
+      "index": 2,
+      "success": true,
+      "latency_ms": 15.453850001096725,
+      "block_height": 120252
+    },
+    {
+      "index": 3,
+      "success": true,
+      "latency_ms": 13.800374001264572,
+      "block_height": 120252
+    },
+    {
+      "index": 4,
+      "success": true,
+      "latency_ms": 15.917568996548653,
+      "block_height": 120252
+    },
+    {
+      "index": 5,
+      "success": true,
+      "latency_ms": 14.550900004804134,
+      "block_height": 120252
+    },
+    {
+      "index": 6,
+      "success": true,
+      "latency_ms": 14.408262997865677,
+      "block_height": 120252
+    },
+    {
+      "index": 7,
+      "success": true,
+      "latency_ms": 14.014394998550415,
+      "block_height": 120252
+    },
+    {
+      "index": 8,
+      "success": true,
+      "latency_ms": 14.294208995997906,
+      "block_height": 120252
+    },
+    {
+      "index": 9,
+      "success": true,
+      "latency_ms": 14.907196998596191,
+      "block_height": 120252
+    },
+    {
+      "index": 10,
+      "success": true,
+      "latency_ms": 13.57175700366497,
+      "block_height": 120252
+    }
+  ],
+  "writes": [
+    {
+      "index": 1,
+      "success": true,
+      "latency_ms": 4200.977292001247,
+      "tx_hash": "0x71d6b39d9ab6bc907a7da9a34b95f101a3b7736cab90b6fe1603c756a58bf4c0",
+      "block_number": 120254,
+      "gas_used": 434587
+    },
+    {
+      "index": 2,
+      "success": true,
+      "latency_ms": 4204.270860001445,
+      "tx_hash": "0x317aaf09587901a74a535bb0c6c765adb412f81344ca493d88215fef38a309f7",
+      "block_number": 120254,
+      "gas_used": 433556
+    },
+    {
+      "index": 3,
+      "success": true,
+      "latency_ms": 4199.872953996062,
+      "tx_hash": "0x8315507edcc9457a4e55e541af024ac02327f2d09e61d095565c1c3182eb8036",
+      "block_number": 120254,
+      "gas_used": 433535
+    },
+    {
+      "index": 4,
+      "success": true,
+      "latency_ms": 4202.131143003702,
+      "tx_hash": "0x4150972c2b2bd450cbdc35736da9ec026c15976f40230a176b8b725c52111ef7",
+      "block_number": 120254,
+      "gas_used": 433802
+    },
+    {
+      "index": 5,
+      "success": true,
+      "latency_ms": 4196.320280998945,
+      "tx_hash": "0x4529aa874d1a680095bc2056a2ec0329108a6b4f46df6ef149f6c2e6ecc40375",
+      "block_number": 120254,
+      "gas_used": 433298
+    },
+    {
+      "index": 6,
+      "success": true,
+      "latency_ms": 4200.823795005679,
+      "tx_hash": "0x912c42df645e53169471fe6daff4368bc6343416328633aace0b4cf1d79b78fd",
+      "block_number": 120254,
+      "gas_used": 433310
+    },
+    {
+      "index": 7,
+      "success": true,
+      "latency_ms": 4203.245288997889,
+      "tx_hash": "0xccd83821a3131fb5804fd91ba822afad1a231bfe7d29098f0646c5970cd659fc",
+      "block_number": 120254,
+      "gas_used": 433387
+    },
+    {
+      "index": 8,
+      "success": true,
+      "latency_ms": 4201.192944996059,
+      "tx_hash": "0xaf2b496317b2381c190095074e2bc25dc8c0eab58cbcff43085390250b1daa41",
+      "block_number": 120254,
+      "gas_used": 434545
+    },
+    {
+      "index": 9,
+      "success": true,
+      "latency_ms": 4206.2232659980655,
+      "tx_hash": "0x2244b1cd85dc79d1169265cfaf0b72d7977dcc4ad41011a4f811bba6494aba8e",
+      "block_number": 120254,
+      "gas_used": 433938
+    },
+    {
+      "index": 10,
+      "success": true,
+      "latency_ms": 4208.967053994536,
+      "tx_hash": "0xe53445dea8eb7cfa61c3f768ce4473b3bf452ddbe8bd24b64e068811e4b81bfa",
+      "block_number": 120254,
+      "gas_used": 434238
+    }
+  ]
+}

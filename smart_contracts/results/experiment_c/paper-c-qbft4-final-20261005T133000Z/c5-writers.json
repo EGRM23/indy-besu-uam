@@ -1,0 +1,124 @@
+{
+  "writers": [
+    {
+      "address": "0x96071Fb9e6D70b9254a37282f6164b3D9722F06e",
+      "did": "did:indybesu:0x96071Fb9e6D70b9254a37282f6164b3D9722F06e"
+    },
+    {
+      "address": "0x812704824572E5a471Bc11df8353E76d0Be6617D",
+      "did": "did:indybesu:0x812704824572E5a471Bc11df8353E76d0Be6617D"
+    },
+    {
+      "address": "0xaA5396fd54306A480D7527674bd108f95a1579E1",
+      "did": "did:indybesu:0xaA5396fd54306A480D7527674bd108f95a1579E1"
+    },
+    {
+      "address": "0xd6Aa3A0Fc3362F46e8552D84b999f8C4A86B42C2",
+      "did": "did:indybesu:0xd6Aa3A0Fc3362F46e8552D84b999f8C4A86B42C2"
+    },
+    {
+      "address": "0xFEA475e00DF46Cf1b8aBa22F1b229c5d030F3958",
+      "did": "did:indybesu:0xFEA475e00DF46Cf1b8aBa22F1b229c5d030F3958"
+    },
+    {
+      "address": "0x1fB055a015Efbe94f30b2a3F85F53f31b9653EFE",
+      "did": "did:indybesu:0x1fB055a015Efbe94f30b2a3F85F53f31b9653EFE"
+    },
+    {
+      "address": "0x57F25f48c86A5956Ba139c42c310D98617980dF4",
+      "did": "did:indybesu:0x57F25f48c86A5956Ba139c42c310D98617980dF4"
+    },
+    {
+      "address": "0xEdB9b357211C0E84751F033F46BC29aE1A69bb45",
+      "did": "did:indybesu:0xEdB9b357211C0E84751F033F46BC29aE1A69bb45"
+    },
+    {
+      "address": "0xdbd5Ff8F733c2FbB728A5b0a680D9C31fB7ef660",
+      "did": "did:indybesu:0xdbd5Ff8F733c2FbB728A5b0a680D9C31fB7ef660"
+    },
+    {
+      "address": "0x31eF9B0dABd877702E9A3b3CDB219aB83246919c",
+      "did": "did:indybesu:0x31eF9B0dABd877702E9A3b3CDB219aB83246919c"
+    },
+    {
+      "address": "0xdCa53Bb68f3D12d5A176A79791b4C5944eac8842",
+      "did": "did:indybesu:0xdCa53Bb68f3D12d5A176A79791b4C5944eac8842"
+    },
+    {
+      "address": "0xcdE03795E37D8001590ba44FD7F6cc5396D566B9",
+      "did": "did:indybesu:0xcdE03795E37D8001590ba44FD7F6cc5396D566B9"
+    },
+    {
+      "address": "0x76935f9A0361500389AD3cc8bF7e7B3FE2E88452",
+      "did": "did:indybesu:0x76935f9A0361500389AD3cc8bF7e7B3FE2E88452"
+    },
+    {
+      "address": "0x201CbB3b4E793A3B989Dc23080693Fde4f97b4D6",
+      "did": "did:indybesu:0x201CbB3b4E793A3B989Dc23080693Fde4f97b4D6"
+    },
+    {
+      "address": "0xe2C776ED53A4E8BF5B311D426670e86F0e3A4456",
+      "did": "did:indybesu:0xe2C776ED53A4E8BF5B311D426670e86F0e3A4456"
+    },
+    {
+      "address": "0x5Ca619Ba004c2b185F2de08306882D42b4D0E40E",
+      "did": "did:indybesu:0x5Ca619Ba004c2b185F2de08306882D42b4D0E40E"
+    },
+    {
+      "address": "0x2927f5e3190e1d01925200C5025C1b77bcCB44f0",
+      "did": "did:indybesu:0x2927f5e3190e1d01925200C5025C1b77bcCB44f0"
+    },
+    {
+      "address": "0xfE87DA1f2dF92CF344F19638Ae9b927aC6ed96f6",
+      "did": "did:indybesu:0xfE87DA1f2dF92CF344F19638Ae9b927aC6ed96f6"
+    },
+    {
+      "address": "0xF61DcfDD91dF87A088253F94e99B43EFABf0E553",
+      "did": "did:indybesu:0xF61DcfDD91dF87A088253F94e99B43EFABf0E553"
+    },
+    {
+      "address": "0xbdbaF868A6FC82825812258B4846A1b81C0c8BF3",
+      "did": "did:indybesu:0xbdbaF868A6FC82825812258B4846A1b81C0c8BF3"
+    },
+    {
+      "address": "0xb69c3DDeA2FaA95927037C24761956327914817A",
+      "did": "did:indybesu:0xb69c3DDeA2FaA95927037C24761956327914817A"
+    },
+    {
+      "address": "0x3e6f833a265671Ad4e5879555aC98933BBD75fF8",
+      "did": "did:indybesu:0x3e6f833a265671Ad4e5879555aC98933BBD75fF8"
+    },
+    {
+      "address": "0xc31428A138B3E62D4cF52f0Fa89F56daA8EF4772",
+      "did": "did:indybesu:0xc31428A138B3E62D4cF52f0Fa89F56daA8EF4772"
+    },
+    {
+      "address": "0x0De29705969119f120B0dAb0D12C84E6571fa899",
+      "did": "did:indybesu:0x0De29705969119f120B0dAb0D12C84E6571fa899"
+    },
+    {
+      "address": "0x06cAF9f5EBb1202E54824a390146D5d66961018b",
+      "did": "did:indybesu:0x06cAF9f5EBb1202E54824a390146D5d66961018b"
+    },
+    {
+      "address": "0x05861b5C30BD3F32D10A582638378E1a2c87B1F9",
+      "did": "did:indybesu:0x05861b5C30BD3F32D10A582638378E1a2c87B1F9"
+    },
+    {
+      "address": "0x355F1944FaB77653F5b1c56f89331D217Dd0F0Ff",
+      "did": "did:indybesu:0x355F1944FaB77653F5b1c56f89331D217Dd0F0Ff"
+    },
+    {
+      "address": "0xDBE3579367b3568b83C08E30B41a8EEcD8818829",
+      "did": "did:indybesu:0xDBE3579367b3568b83C08E30B41a8EEcD8818829"
+    },
+    {
+      "address": "0xC63B69b82F205f7c15cd32C441BDd09c70939cDD",
+      "did": "did:indybesu:0xC63B69b82F205f7c15cd32C441BDd09c70939cDD"
+    },
+    {
+      "address": "0xa0e182ae8067748881c3EeeDA81995EcF64949DA",
+      "did": "did:indybesu:0xa0e182ae8067748881c3EeeDA81995EcF64949DA"
+    }
+  ]
+}

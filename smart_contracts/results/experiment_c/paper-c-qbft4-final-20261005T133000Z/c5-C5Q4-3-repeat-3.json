@@ -1,0 +1,129 @@
+{
+  "scenario": "C5Q4-3",
+  "repeat": 3,
+  "timeout_ms": 10000,
+  "reads": [
+    {
+      "index": 1,
+      "success": true,
+      "latency_ms": 110.47636599838734,
+      "block_height": 119930
+    },
+    {
+      "index": 2,
+      "success": true,
+      "latency_ms": 20.66489800065756,
+      "block_height": 119930
+    },
+    {
+      "index": 3,
+      "success": true,
+      "latency_ms": 19.463417001068592,
+      "block_height": 119930
+    },
+    {
+      "index": 4,
+      "success": true,
+      "latency_ms": 19.264626000076532,
+      "block_height": 119930
+    },
+    {
+      "index": 5,
+      "success": true,
+      "latency_ms": 18.97621500119567,
+      "block_height": 119930
+    },
+    {
+      "index": 6,
+      "success": true,
+      "latency_ms": 18.946529000997543,
+      "block_height": 119930
+    },
+    {
+      "index": 7,
+      "success": true,
+      "latency_ms": 18.268017999827862,
+      "block_height": 119930
+    },
+    {
+      "index": 8,
+      "success": true,
+      "latency_ms": 19.540300998836756,
+      "block_height": 119930
+    },
+    {
+      "index": 9,
+      "success": true,
+      "latency_ms": 19.14165499806404,
+      "block_height": 119930
+    },
+    {
+      "index": 10,
+      "success": true,
+      "latency_ms": 18.370439998805523,
+      "block_height": 119930
+    }
+  ],
+  "writes": [
+    {
+      "index": 1,
+      "success": false,
+      "latency_ms": 10002.625944998115,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 2,
+      "success": false,
+      "latency_ms": 10002.221907999367,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 3,
+      "success": false,
+      "latency_ms": 10002.1352260001,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 4,
+      "success": false,
+      "latency_ms": 10002.05926399678,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 5,
+      "success": false,
+      "latency_ms": 10002.007988002151,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 6,
+      "success": false,
+      "latency_ms": 10001.955037999898,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 7,
+      "success": false,
+      "latency_ms": 10001.901579000056,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 8,
+      "success": false,
+      "latency_ms": 10001.849090002477,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 9,
+      "success": false,
+      "latency_ms": 10001.68401100114,
+      "error": "confirmation timeout after 10000 ms"
+    },
+    {
+      "index": 10,
+      "success": false,
+      "latency_ms": 10001.544228997082,
+      "error": "confirmation timeout after 10000 ms"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "run_id": "integration-c-20261005T185000Z-p4",
+  "runs": 3,
+  "contract": "0xC75a1d29e39f69090c762a42dc4Bdc553DbB6ca2",
+  "indy_schema_id": "did:indybesu:0xA1F5178ebB97cAAecAc69B2A4F86e3BE62f65Dc8/anoncreds/v0/SCHEMA/user_credential/2.0/paper-c-20261005T154000Z-01",
+  "von_schema_id": "5rtvexuq6mGGkvikxen2qK:2:user_credential_paper-von-c-20261005T171000Z_01:2.0",
+  "von_bridge": [
+    {
+      "index": 1,
+      "success": true,
+      "http_lookup_ms": 20.80934599786997,
+      "confirmation_ms": 4222.865226000547,
+      "end_to_end_ms": 4243.729834996164,
+      "gas_used": 23246,
+      "tx_hash": "0xafd348e0f0691b6219cd4aafde3e7414c4f334abc50ef2bf2ff367a5ab95e0bd",
+      "block_number": 124505
+    },
+    {
+      "index": 2,
+      "success": true,
+      "http_lookup_ms": 19.87057399749756,
+      "confirmation_ms": 4152.586800999939,
+      "end_to_end_ms": 4243.419783003628,
+      "gas_used": 23246,
+      "tx_hash": "0xf4ee27cbf1652fc9c0517e5b25687017e14b04b7f26d3a09063369be1cf390b1",
+      "block_number": 124505
+    },
+    {
+      "index": 3,
+      "success": true,
+      "http_lookup_ms": 20.121544994413853,
+      "confirmation_ms": 4098.028576001525,
+      "end_to_end_ms": 4243.233905002475,
+      "gas_used": 23246,
+      "tx_hash": "0x6e06883ab1195e05ad3b6d627a1606d7b45b4e7fda223afec1b711bfc474a7de",
+      "block_number": 124505
+    }
+  ],
+  "indy_direct": [
+    {
+      "index": 1,
+      "success": true,
+      "http_lookup_ms": null,
+      "confirmation_ms": 226.2535149976611,
+      "end_to_end_ms": 226.2562299966812,
+      "gas_used": 62901,
+      "tx_hash": "0xb5abed109b2aef7413526cd95b87ba0eef2b428493c07184fbc465c2c5191d80",
+      "block_number": 124509
+    },
+    {
+      "index": 2,
+      "success": true,
+      "http_lookup_ms": null,
+      "confirmation_ms": 154.89326199889183,
+      "end_to_end_ms": 154.8937629982829,
+      "gas_used": 62901,
+      "tx_hash": "0xd7ed0bfd392660264d0958fb89322bd603d319df13c2d5a76eaeb759986fb9f3",
+      "block_number": 124509
+    },
+    {
+      "index": 3,
+      "success": true,
+      "http_lookup_ms": null,
+      "confirmation_ms": 4106.059039995074,
+      "end_to_end_ms": 4106.061133995652,
+      "gas_used": 62901,
+      "tx_hash": "0xdf86a40f121d5beccc7f536966e85cc6627c5f4b0c6d774c53a60eae2b9c40ec",
+      "block_number": 124510
+    }
+  ]
+}
